@@ -12,4 +12,34 @@
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="10.0.0" PrivateAssets="all"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="src\bin\Debug\net10.0\ForgeAutocompleteIssue.runtimeconfig.json" />
+      <_ContentIncludedByDefault Remove="src\bin\Debug\net10.0\ForgeAutocompleteIssue.staticwebassets.endpoints.json" />
+      <_ContentIncludedByDefault Remove="src\bin\Debug\net10.0\ForgeAutocompleteIssue.staticwebassets.runtime.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\blazor.build.boot-extension.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\ForgeAutocompleteIssue.sourcelink.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\rbcswa.dswa.cache.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\rjimswa.dswa.cache.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\rjsmrazor.dswa.cache.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\rpswa.dswa.cache.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\staticwebassets.build.endpoints.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\staticwebassets.build.json" />
+      <_ContentIncludedByDefault Remove="src\obj\Debug\net10.0\staticwebassets.development.json" />
+      <_ContentIncludedByDefault Remove="src\obj\ForgeAutocompleteIssue.csproj.nuget.dgspec.json" />
+      <_ContentIncludedByDefault Remove="src\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="src\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="src\Properties\launchSettings.json" />
+      <_ContentIncludedByDefault Remove="src\wwwroot\sample-data\weather.json" />
+      <_ContentIncludedByDefault Remove="src\App.razor" />
+      <_ContentIncludedByDefault Remove="src\Components\ForgeAutocomplete.razor" />
+      <_ContentIncludedByDefault Remove="src\Layout\MainLayout.razor" />
+      <_ContentIncludedByDefault Remove="src\Layout\NavMenu.razor" />
+      <_ContentIncludedByDefault Remove="src\Pages\Counter.razor" />
+      <_ContentIncludedByDefault Remove="src\Pages\Home.razor" />
+      <_ContentIncludedByDefault Remove="src\Pages\NotFound.razor" />
+      <_ContentIncludedByDefault Remove="src\Pages\Weather.razor" />
+      <_ContentIncludedByDefault Remove="src\_Imports.razor" />
+    </ItemGroup>
+
 </Project>
